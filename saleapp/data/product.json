@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 17",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7SY5b3GQtDJdI0jkq-FDr5gh44HB7jE5TcA7yC4mrdsWQvj6861MDQmyI9m7Thl1TLLrpTJ2ttpgmsCfn8zldsQlSfC9XjRX2BCCLqdR2ncE8LEvYyUU6IgLwkLde0XHR8Z98mF0&usqp=CAc",
+    "price": 100000000,
+    "cate_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Iphone 15",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7SY5b3GQtDJdI0jkq-FDr5gh44HB7jE5TcA7yC4mrdsWQvj6861MDQmyI9m7Thl1TLLrpTJ2ttpgmsCfn8zldsQlSfC9XjRX2BCCLqdR2ncE8LEvYyUU6IgLwkLde0XHR8Z98mF0&usqp=CAc",
+    "price": 100000000,
+    "cate_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Iphone 18",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7SY5b3GQtDJdI0jkq-FDr5gh44HB7jE5TcA7yC4mrdsWQvj6861MDQmyI9m7Thl1TLLrpTJ2ttpgmsCfn8zldsQlSfC9XjRX2BCCLqdR2ncE8LEvYyUU6IgLwkLde0XHR8Z98mF0&usqp=CAc",
+    "price": 100000000,
+    "cate_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Iphone 16",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7SY5b3GQtDJdI0jkq-FDr5gh44HB7jE5TcA7yC4mrdsWQvj6861MDQmyI9m7Thl1TLLrpTJ2ttpgmsCfn8zldsQlSfC9XjRX2BCCLqdR2ncE8LEvYyUU6IgLwkLde0XHR8Z98mF0&usqp=CAc",
+    "price": 100000000,
+    "cate_id": 2
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy ",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSckAy4NldQNBSkD03q8Y0Ty41D5PLFtLx2G1j8qmcGeIgeK28r7sz9Kz_rI68lSBPc4XYDZu0yUggRxv3GY67COVKmDeHIQOS3EpbVw-X-tbVAwwzfo3OmqAK_HXD10bSAvdIHE6o&usqp=CAc",
+    "price": 100000000,
+    "cate_id": 3
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy A17",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSckAy4NldQNBSkD03q8Y0Ty41D5PLFtLx2G1j8qmcGeIgeK28r7sz9Kz_rI68lSBPc4XYDZu0yUggRxv3GY67COVKmDeHIQOS3EpbVw-X-tbVAwwzfo3OmqAK_HXD10bSAvdIHE6o&usqp=CAc",
+    "price": 100000000,
+    "cate_id": 2
+  }
+]
